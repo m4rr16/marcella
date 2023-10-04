@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            body {
+                background-color: yellow;
+            }
+            h1 { 
+                color: black;
+                text-align: center;
+            }
+            h2 {
+                color: blue;
+                font-size: 12px;
+            }
+            h3 {
+                color: violet;
+                font-size: 12px;
+            }
+            h4 {
+                color: red;
+                font-size: 12px;
+            }
+            h5 {
+                color: green;
+                font-size: 12px;
+            }
+            h6 {
+                color: orange;
+                font-size: 12px;
+            }
+            p { 
+                font-family: Verdana;
+                font-size: 12px;
+            }
+        </style>
+    </head>
+    <body>
+        <h1> Se a liga me ligasse eu também ligava liga,see a liga não me liga eu também não ligo liga</h1>
+        <h2> Verdade </h2>
+        <h3> Mentira</h3>
+        <h4> medo</h4>
+        <h5> Ansiedade</h5>
+        <h6> Luz</h6>
+    </body>
